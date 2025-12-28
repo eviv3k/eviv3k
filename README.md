@@ -27,8 +27,3 @@
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&color=353535) ![Bootstrap](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=iOS&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eviv3k&show_icons=true&locale=en&layout=compact" alt="eviv3k" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=eviv3k&theme=dark" alt="eviv3k" />
-</div>
