@@ -1,11 +1,9 @@
 # Vivek Singh
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feviv3k%2Feviv3k&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/eviv3k)](https://twitter.com/eviv3k)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eviv3k/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/eviv3k/)](https://www.instagram.com/eviv3k)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eviv3k@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=http://www.eviv3k.com)](http://www.eviv3k.com)
 [![Github](https://img.shields.io/github/followers/eviv3k?label=Follow&style=social)](https://github.com/eviv3k)
 
 - 🧏 I am completely deaf since birth. Despite this, I am proficient in full-stack development and mobile app development.
